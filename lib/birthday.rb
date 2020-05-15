@@ -15,5 +15,6 @@ end
 
 end
 
-def appropr
+def age_appropriate_birthday(array)
+  
 
