@@ -16,4 +16,4 @@ end
 end
 
 def age_appropriate_birthday(array)
-  array.each d0
+  array.each do |age, name
