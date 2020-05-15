@@ -16,4 +16,4 @@ end
 end
 
 def age_appropriate_birthday(array)
-  
+  array.each d0
