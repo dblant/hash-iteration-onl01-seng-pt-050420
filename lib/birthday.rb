@@ -19,7 +19,7 @@ happy_birthday(birthday_kids)
 def age_appropriate_birthday(array)
   array.each do |name, age|
     if age >= 12
-      puts "You are too old for this"
+      puts "You are too old for this."
     else
       puts "Happy Birthday #{name}! You are now #{age} years old!"
     end
